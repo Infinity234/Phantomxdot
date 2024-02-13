@@ -31,7 +31,7 @@ module.exports = {
       case "sc":
         await doReact("🧣");
         let repoInfo = await axios.get(
-          "https://api.github.com/repos/FantoX/Atlas-MD"
+          "https://api.github.com/repos/Infinity234/Phantomxdot"
         );
         let repo = repoInfo.data;
         console.log(repo);
