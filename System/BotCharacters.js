@@ -67,23 +67,23 @@ Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.
 global.charID0 = {
     botName : "Atlas",
     botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage1 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botImage2 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botImage3 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botImage4 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botImage5 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botImage6 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
 }
 
 global.charID1 = {
   botName : "Power",
   botVideo : "https://graph.org/file/b402e2d4718992187787b.mp4",
-  botImage1 : "https://wallpapercave.com/wp/wp11253614.jpg",
-  botImage2 : "https://wallpapercave.com/wp/wp9413488.jpg",
-  botImage3 : "https://wallpapercave.com/wp/wp11628561.jpg",
+  botImage1 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage2 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage3 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
   botImage4 : "https://wallpapercave.com/wp/wp11733443.jpg",
-  botImage5 : "https://wallpapercave.com/wp/wp11733435.jpg",
-  botImage6 : "https://wallpapercave.com/wp/wp11733458.jpg",
+  botImage5 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage6 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
 }
 
 global.charID2 = {
@@ -195,7 +195,7 @@ global.charID11 = {
   botImage3 : "https://images.alphacoders.com/737/737390.jpg",
   botImage4 : "https://images.alphacoders.com/729/729307.png",
   botImage5 : "https://images2.alphacoders.com/720/720108.png",
-  botImage6 : "https://images4.alphacoders.com/764/764738.jpg",
+  botImage6 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
 }
 
 
