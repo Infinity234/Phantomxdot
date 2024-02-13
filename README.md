@@ -1,15 +1,15 @@
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://github.com/Infinity234/Phantomxdot">
+    <img src="https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Phantom MD
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Phantom-mdbot" an Opensource WhatsApp bot made by <a href="https://github.com/Infinity234/Phantomxdot">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Phantom MD - The Future Is Here
 </h4>
 
 <br>
@@ -244,7 +244,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348111348402`,`2348111348402`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -274,7 +274,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348111348402`,`2348111348402`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -648,7 +648,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet Team Phantom 🔰
 </h2>
 
 [![Fantox](https://github.com/FantoX.png)](https://github.com/FantoX)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
