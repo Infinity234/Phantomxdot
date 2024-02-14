@@ -31,7 +31,7 @@
 
 
 /* ---Added Anime Character list---  /
- 0 --- Atlas MD
+ 0 --- Phantom xdot
  1 --- Power
  2 --- Makima
  3 --- Denji
@@ -50,7 +50,7 @@
 16 --- Mai
 17 --- Yor
 18 --- Shinbou
-19 --- Eiko
+19 --- Phantom xdot
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -65,14 +65,14 @@ Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.
 
 
 global.charID0 = {
-    botName : "Atlas",
-    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
-    botImage1 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
-    botImage2 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
-    botImage3 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
-    botImage4 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
-    botImage5 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
-    botImage6 : "https://telegra.ph/file/ecd39ed4e25b80b528ebe.jpg",
+    botName : "Phantom xdot",
+    botVideo : "https://telegra.ph/file/8d1c340bebf85b6cfb574.mp4",
+    botImage1 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+    botImage2 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+    botImage3 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+    botImage4 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+    botImage5 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+    botImage6 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
 }
 
 global.charID1 = {
@@ -280,12 +280,12 @@ global.charID18 = {
 }
 
 global.charID19 = {
-  botName : "Eiko",
-  botVideo : "https://graph.org/file/7f99357fec0f000c7ab0a.mp4",
-  botImage1 : "https://images8.alphacoders.com/122/1229829.jpg",
-  botImage2 : "https://images2.alphacoders.com/123/1234944.png",
-  botImage3 : "https://images5.alphacoders.com/123/1235274.jpg",
-  botImage4 : "https://images6.alphacoders.com/126/1260043.png",
-  botImage5 : "https://images6.alphacoders.com/124/1247977.jpg",
-  botImage6 : "https://images2.alphacoders.com/125/1251795.jpg",
+  botName : "Phantom xdot",
+  botVideo : "https://telegra.ph/file/8d1c340bebf85b6cfb574.mp4",
+  botImage1 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage2 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage3 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage4 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage5 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
+  botImage6 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
 }
