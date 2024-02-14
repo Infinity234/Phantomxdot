@@ -94,7 +94,7 @@ module.exports = {
       wink: "Winked at",
       yeet: "Yeeted at",
     };
-    await doReact("🎭");
+    await doReact("🦅");
 
     const reactions = Object.keys(suitableWords);
     const command = m.body
@@ -107,7 +107,7 @@ module.exports = {
     let flag = true;
     if (command === "r" || command === "reaction") flag = false;
     if (!flag && !text) {
-      const reactionList = `🎃 *Available Reactions:*\n\n- ${reactions
+      const reactionList = `🦅 *Available Reactions:*\n\n- ${reactions
         .map((reaction) => capitalize(reaction))
         .join(
           "\n- "
