@@ -43,7 +43,7 @@ module.exports = {
           2
         )} MB\n*📅 Last Updated:* ${repo.updated_at}\n\n*🔗 Repo Link:* ${
           repo.html_url
-        }\n\n❝ Dont forget to give a Star ⭐ to the repo. It's made with restless hardwork by *Team ATLAS*. ❞\n\n*©️ Team ATLAS- 2023*`;
+        }\n\n❝ Dont forget to give a Star ⭐ to the repo. It's made with restless hardwork by *Team Phantomxdot*. ❞\n\n*©️ Team Phantomxdot- 2024*`;
         Atlas.sendMessage(m.from, { image: pic, caption: txt }, { quoted: m });
         break;
 
