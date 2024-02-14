@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/Infinity234/Phantomxdot">
-    <img src="https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg">
+    <img src="https://telegra.ph/file/f77014446a6b5c39933b8.jpg">
   </a>
 
-<h1 align="center"> Phantom MD
+<h1 align="center"> PHANTOM--MD
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Phantom-mdbot" an Opensource WhatsApp bot made by <a href="https://github.com/Infinity234/Phantomxdot">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Phantom-mdbot" an Opensource WhatsApp bot Modified by <a href="https://github.com/Infinity234/Phantomxdot">Xdot</a> and his team "PHANTOM" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Phantom MD - The Future Is Here
 </h4>
@@ -655,3 +655,12 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 ----|----|----|----|----|----
 [FantoX](https://github.com/FantoX)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | API Maintainer | Ideas, Testing | Ideas, Testing
+
+
+
+
+
+
+🇳🇬. MEET THE BOT MODIFYER HERE 👇 🇳🇬
+
+https://telegra.ph/file/f77014446a6b5c39933b8.jpg
