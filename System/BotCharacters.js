@@ -281,7 +281,7 @@ global.charID18 = {
 
 global.charID19 = {
   botName : "Phantom xdot",
-  botVideo : "https://telegra.ph/file/8d1c340bebf85b6cfb574.mp4",
+  botVideo : "https://raw.githubusercontent.com/salmanytofficial/XLICON-MD/main/lib/assets/help.mp4",
   botImage1 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
   botImage2 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
   botImage3 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
