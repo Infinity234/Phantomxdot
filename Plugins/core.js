@@ -29,13 +29,13 @@ module.exports = {
     switch (inputCMD) {
       case "script":
       case "sc":
-        await doReact("🧣");
+        await doReact("🦅");
         let repoInfo = await axios.get(
           "https://api.github.com/repos/Infinity234/Phantomxdot"
         );
         let repo = repoInfo.data;
         console.log(repo);
-        let txt = `            🧣 *${botName}'s Script* 🧣\n\n*🎀 Total Forks:* ${
+        let txt = `            🦅 *${botName}'s Script* 🦅\n\n*🎀 Total Forks:* ${
           repo.forks_count
         }\n*⭐ Total Stars:* ${repo.stargazers_count}\n*📜 License:* ${
           repo.license.name
@@ -50,14 +50,14 @@ module.exports = {
       case "support":
       case "supportgc":
         await doReact("🔰");
-        let txt2 = `              🧣 *Support Group* 🧣\n\n*${botName}* is an open source project, and we are always happy to help you.\n\n*Link:* ${suppL}\n\n*Note:* Please don't spam in the group, and don't message *Admins directly* without permission. Ask for help inside *Group*.\n\n*Thanks for using Atlas.*`;
+        let txt2 = `              🔥 *Support Group* 🔥\n\n*${botName}* is an open source project, and we are always happy to help you.\n\n*Link:* ${suppL}\n\n*Note:* Please don't spam in the group, and don't message *Admins directly* without permission. Ask for help inside *Group*.\n\n*Thanks for using Atlas.*`;
         Atlas.sendMessage(m.from, { image: pic, caption: txt2 }, { quoted: m });
         break;
 
       case "help":
       case "h":
       case "menu":
-        await doReact("☃️");
+        await doReact("💻");
         await Atlas.sendPresenceUpdate("composing", m.from);
         function readUniqueCommands(dirPath) {
           const allCommands = [];
@@ -92,7 +92,7 @@ module.exports = {
               file.replace(".js", "").charAt(0).toUpperCase() +
               file.replace(".js", "").slice(1);
 
-            formatted += `╟   🏮 *${capitalizedFile}* 🏮   ╢\n\n`;
+            formatted += `╟   🇳🇬 *${capitalizedFile}* 🇳🇬   ╢\n\n`;
             formatted += `\`\`\`${commands
               .map((cmd) => `⥼   ${prefix + cmd}`)
               .join("\n")}\`\`\`\n\n\n`;
@@ -105,7 +105,7 @@ module.exports = {
 
         const allCommands = readUniqueCommands(pluginsDir);
         const formattedCommands = formatCommands(allCommands);
-        var helpText = `\nKonnichiwa *${pushName}* Senpai,\n\nI am *${botName}*, a WhatsApp bot built to take your boring WhatsApp experience into next level.\n\n*🔖 My Prefix is:*  ${prefix}\n\n${formattedCommands}\n\n\n*©️ Team ATLAS- 2023*`;
+        var helpText = `\nKonnichiwa *${pushName}* Senpai,\n\nI am *${botName}*, a WhatsApp bot built by Phantom to take your boring WhatsApp experience into next level.\n\n*🔖 My Prefix is:*  ${prefix}\n\n${formattedCommands}\n\n\n*©️ Team Phantomxdot- 2024*`;
         await Atlas.sendMessage(
           m.from,
           { video: { url: botVideo }, gifPlayback: true, caption: helpText },
@@ -117,9 +117,9 @@ module.exports = {
       case "system":
       case "info":
       case "about":
-        await doReact("🔰");
+        await doReact("🔥");
         let xyz = await axios.get(
-          "https://api.github.com/repos/FantoX/Atlas-MD/releases"
+          "https://api.github.com/repos/infinity234/Phantomxdot/releases"
         );
         let latest = xyz.data[0].tag_name;
         const version2 = package.version;
@@ -132,7 +132,7 @@ module.exports = {
         let cpu2 = process.env.PROCESSOR_IDENTIFIER;
         let core = process.env.NUMBER_OF_PROCESSORS;
 
-        let txt4 = `            🧣 *System Info* 🧣
+        let txt4 = `            🦅 *System Info* 🦅
 
 
 *〄 Node Version:* ${nodeVersion}
