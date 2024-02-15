@@ -31,7 +31,7 @@
 
 
 /* ---Added Anime Character list---  /
- 0 --- Phantom xdot
+ 0 --- atlas MD
  1 --- Power
  2 --- Makima
  3 --- Denji
@@ -65,8 +65,8 @@ Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.
 
 
 global.charID0 = {
-    botName : "Phantom xdot",
-    botVideo : "https://telegra.ph/file/8d1c340bebf85b6cfb574.mp4",
+    botName : "atlas MD",
+    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
     botImage1 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
     botImage2 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
     botImage3 : "https://telegra.ph/file/6f5b93b349a28fc1dc307.jpg",
